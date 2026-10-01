@@ -84,8 +84,8 @@
         "sops-nix": "sops-nix"
       },
       "locked": {
-        "lastModified": 1790508960,
-        "narHash": "sha256-TvdHPMAxmfuptZmr0SHIBKvJ94vUFt39iko1oRoU1J0=",
+        "lastModified": 1790856000,
+        "narHash": "sha256-b0RN/TmnkM3jVqxQqBSXLVP7TLfShK0/fJAlNtlHds0=",
         "path": "/home/ahmed/Projects/nix-config",
         "type": "path"
       },
