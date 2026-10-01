@@ -1,6 +1,6 @@
 # Development
 
-Your new workspace contains a member crate for each of the web, desktop and mobile platforms, and a `ui` crate for components that are shared between multiple platforms:
+Your new workspace contains a member crate for each of the web and desktop platforms, and a `ui` crate for components that are shared between multiple platforms:
 
 ```
 your_project/
@@ -11,8 +11,6 @@ your_project/
    │  └─ ... # Web specific UI/logic
    ├─ desktop/
    │  └─ ... # Desktop specific UI/logic
-   ├─ mobile/
-   │  └─ ... # Mobile specific UI/logic
    └─  ui/
       └─ ... # Component shared between multiple platforms
 ```
